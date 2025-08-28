@@ -6,6 +6,6 @@ def add(a: int, b: int) -> int:
 
 def safe_divide(a: float, b: float) -> float:
     """Divide a by b; raise ValueError on division by zero."""
-    if b == 0:
+    if b0:
         raise ValueError("Division by zero")
     return a / b
