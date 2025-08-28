@@ -1,7 +1,7 @@
 import math
 
 def add(a: int, b: int) -> int:
-    """Return sum of two integers."""
+    """Return sum of two integers(FEATURE VERSION)."""
     return a + b
 
 def safe_divide(a: float, b: float) -> float:
